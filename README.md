@@ -1,1 +1,16 @@
-# Data-Analytics-Portfolio.
+# Hi there, my name is Kolawole Emmanuel.
+
+## About Me
+I am Data Analyst with profound experience in turning raw data into actionable experience. I am data driven and analytically rigorous with extensive experience in Business Intelligence, Data modelling, Dashboarding and Data Storytelling.
+
+I am profiecient in using **SQL, Python, Power BI, Tableau, Excel** with a proven ability to develop interactive dashboards, automate reporting workflows, optimize query performance, and enhance data integrity for strategic decision-making.
+
+## Skills & Tools
+- **Data Analysis** - SQL, Excel, Python
+- **Visualisation** - Power BI, Tableau, Excel
+- **DataBase Management** - Microsoft SQL Server, MySQL, PostgreSQL
+- **Other** - Data Modelling, Performance Metrics, Storytelling, Data Governance.
+
+## Connect with Me
+You can connect with me on Email: emmakola20@gmail.com
+Here are some of the projects I have worked on, feel free to have a look and reach out if you want to collaborate.
