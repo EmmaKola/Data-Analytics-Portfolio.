@@ -14,7 +14,7 @@ I am profiecient in using **SQL, Python, Power BI, Tableau, Excel** with a prove
 ## Connect with Me
 ### You can connect with me on
 Email: emmakola20@gmail.com, 
-LinkedIn: linkedin.com/in/emmanuelokolawole
+LinkedIn: https://www.linkedin.com/in/emmanuelokolawole
 
 ## Projects
 Here are some of the project I have worked on, you can click on the projects to view more details and their Github Repositories.
