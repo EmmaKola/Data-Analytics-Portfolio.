@@ -12,8 +12,8 @@ I am profiecient in using **SQL, Python, Power BI, Tableau, Excel** with a prove
 - **Other** - Data Modelling, Performance Metrics, Storytelling, Data Governance.
 
 ## Connect with Me
-### You can connect with me on;
-Email: emmakola20@gmail.com
+### You can connect with me on
+Email: emmakola20@gmail.com, 
 LinkedIn: https://www.linkedin.com/in/emmanuelokolawole
 
 ## Projects
