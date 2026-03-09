@@ -20,6 +20,9 @@ LinkedIn: https://www.linkedin.com/in/emmanuelokolawole
 Here are some of the project I have worked on, you can click on the projects to view more details and their Github Repositories.
 ### 1. Cafe Harmony Operational Analytics
 **Tools** - Microsoft Excel
+
 **Operations Performed** - Data cleaning, Analysis, Dashboarding, Business Insight
+
 **Process Involved** - Meet with Stake holders, source the data from HR, clean data, transform data, create dashboard and then preppared a report.
+
 **Repository or Project Page** - https://github.com/EmmaKola/Cafe-Harmony-Operational-Analytics
