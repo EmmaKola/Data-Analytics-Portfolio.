@@ -24,8 +24,8 @@ Here are some of the project I have worked on, you can click on the projects to 
 
  - **Tools** - Microsoft Excel
 
- - **Operations Performed** - Data cleaning, Analysis, Dashboarding, Business Insight
+ - **Operations Performed** - Data cleaning, Analysis, Dashboarding, Business Insight, Recommendation
 
- - **Process Involved** - Meet with Stake holders, source the data from HR, clean data, transform data, create dashboard and then preppared a report.
+ - **Process Involved** - Meet with Stake holders, source the data from HR, clean data, transform data, create dashboard and then prepared a report.
 
  - **Repository or Project Page** - https://github.com/EmmaKola/Cafe-Harmony-Operational-Analytics
